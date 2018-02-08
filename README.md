@@ -15,4 +15,4 @@ Sample website with plenty of files for demos
 adding some text
 
 ### copyright
-2014 git.Training.
+2014 git.Training. All rights reserved
